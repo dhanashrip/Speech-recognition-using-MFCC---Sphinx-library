@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bld" path="apps"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry kind="con" path="/home/dhanashree/Downloads/sphinx4-1.0beta5-src/sphinx4-1.0beta5/bld"/>
+	<classpathentry kind="con" path="/home/dhanashree/Downloads/sphinx4-1.0beta5-src/sphinx4-1.0beta5/lib/sphinx4.jar"/>
+	<classpathentry kind="con" path="/home/dhanashree/Downloads/sphinx4-1.0beta5-src/sphinx4-1.0beta5/lib/jsapi.jar"/>
+	<classpathentry kind="con" path="/home/dhanashree/Downloads/sphinx4-1.0beta5-src/sphinx4-1.0beta5/lib/tags.jar"/>
+	<classpathentry kind="lib" path="/home/dhanashree/Downloads/sphinx4-1.0beta5-src/sphinx4-1.0beta5/lib/js.jar"/>
+	<classpathentry kind="con" path="/home/dhanashree/Downloads/sphinx4-1.0beta5-src/sphinx4-1.0beta5/lib/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="/home/dhanashree/workspace/Sphinx-4/lib/js.jar"/>
+	<classpathentry kind="lib" path="/home/dhanashree/workspace/Sphinx-4/lib/jsapi-1.0-base.jar"/>
+	<classpathentry kind="lib" path="/home/dhanashree/workspace/Sphinx-4/lib/sphinx4.jar"/>
+	<classpathentry kind="lib" path="/home/dhanashree/workspace/Sphinx-4/lib/tags.jar"/>
+	<classpathentry kind="lib" path="/home/dhanashree/workspace/Sphinx-4/lib/TIDIGITS_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
+	<classpathentry kind="lib" path="/home/dhanashree/workspace/Sphinx-4/lib/WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
+	<classpathentry kind="lib" path="/home/dhanashree/Downloads/sphinx4-1.0beta5-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
